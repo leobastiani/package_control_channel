@@ -267,6 +267,17 @@
 			]
 		},
 		{
+			"name": "LeoCodeIntel",
+			"details": "https://github.com/leobastiani/LeoCodeIntel",
+			"labels": ["auto-complete", "snippets"],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"details": "https://github.com/leobastiani/LeoCodeIntel/tree/master"
+				}
+			]
+		},
+		{
 			"name": "LESS",
 			"details": "https://github.com/danro/LESS-sublime",
 			"releases": [
